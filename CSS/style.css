@@ -1,4 +1,4 @@
-*{
+**{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -8,6 +8,21 @@
 body{
     background: rgb(15, 15, 15);
     font-family: sans-serif;
+}
+
+    /* SCROLLBAR */
+
+::-webkit-scrollbar{
+    background-color: #2c2828;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: rgb(255, 38, 0);
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: rgba(255, 0, 0, 0.801);
 }
 
     /* HEADER */
