@@ -6,8 +6,7 @@
 }
 
 body{
-    background: rgb(10, 10, 10);
-    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(3,3,28,1) 51%, rgba(0,0,6,1) 100%);
+    background: rgb(15, 15, 15);
     font-family: sans-serif;
 }
 
@@ -42,14 +41,15 @@ header{
 
 div > .bntheader > a{
     text-decoration: none;
-    color: grey;
+    color: rgb(167, 156, 156);
     transition: 0.3s;
     font-size: 14px;
 }
 
 div > .bntheader > a:hover{
-    color: #00FF7F;
-    text-shadow: 1px 1px 2px #00FF7F; 
+    color: #ffffff;
+    border-bottom: 2px solid rgb(221, 11, 11);
+    font-size: 15px;
 }
 
 .imgaranha > img{
@@ -67,6 +67,8 @@ div > .bntheader > a:hover{
     width: 100%;
     height: 1080px;
     overflow: hidden;
+    border-bottom: #fd8a8a8f 1px solid;
+    box-shadow: rgba(167, 18, 18, 0.5) 0px 10px 36px 0px, rgba(255, 0, 0, 0.336) 0px 0px 0px 1px;
 }
 
 .slidefirst img{
@@ -122,7 +124,6 @@ div > .bntheader > a:hover{
 
 .manual-btn:hover{
     background-color: #ffffff;
-    box-shadow: rgba(255, 255, 255, 0.35)4px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px;
 }
 #radio1:checked ~ .slidefirst{
     margin-left: 0;
