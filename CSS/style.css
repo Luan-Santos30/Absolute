@@ -17,12 +17,13 @@ body{
 }
 
 ::-webkit-scrollbar-thumb{
-    background-color: rgb(255, 38, 0);
-    border-radius: 20px;
+    background-color: #ff0000;
+    border-radius: 50px;
+    transition: 1s;
 }
 
 ::-webkit-scrollbar-thumb:hover{
-    background-color: rgba(255, 0, 0, 0.801);
+    background-color: #e00101e0;
 }
 
     /* HEADER */
