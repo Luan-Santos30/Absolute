@@ -30,13 +30,14 @@ header{
     width: 150px;
     object-fit: contain;
     margin-left: 80px;
+   margin-top: 14px;
 }
 
     /* BOTÃO HEADER */
 
 .bntheader{
-    margin-left: 700px;
-    margin-top: 26px;
+    margin-left: 774px;
+    margin-top: 30px;
 }
 
 div > .bntheader > a{
