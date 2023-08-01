@@ -169,7 +169,6 @@ div > .bntheader > a:hover{
     border-radius: 40px;
     cursor: pointer;
     transition: 0.5s;
-    position: fixed;
 }
 
 .navigation-auto{
