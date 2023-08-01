@@ -1,0 +1,56 @@
+@media(max-width: 1267px){
+    .bntheader{
+        width: 1267px;
+        margin-left: 700px;
+        white-space: nowrap;
+    }
+
+}
+
+@media(max-width: 1193px){
+    .bntheader{
+        width: 1193px;
+        margin-left: 605px;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 1098px){
+    .bntheader{
+        width: 1098px;
+        margin-left: 505px;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 995px){
+    .bntheader{
+        width: 995px;
+        margin-left: 405px;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 902px){
+    .bntheader{
+        width: 902px;
+        margin-left: 305px;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 798px){
+    .bntheader{
+        width: 798px;
+        margin-left: 205px;
+        white-space: nowrap;
+    }
+}
+
+@media(max-width: 695px){
+    .bntheader{
+        width: 695px;
+        margin-left: 105px;
+        white-space: nowrap;
+    }
+}
